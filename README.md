@@ -6,7 +6,7 @@ The GPT-3 project is a web page that utilizes the natural language technology GP
 
 ## Live Demo 
 
-[Template GPT-3]()
+[Template GPT-3](gpt3-kal2403.netlify.app)
 
 ## Technologies Used
 
